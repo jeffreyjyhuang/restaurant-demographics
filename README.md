@@ -1,4 +1,4 @@
-# Predicting Restaruant Success with Demographic Data in Downtown Toronto
+# Predicting Restaurant Success with Demographic Data in Downtown Toronto
 
 The intuition I had is that the type of people that live around a specific restaurant will greatly affect its success. For example, if a restaurant does well in one location, it might do terrible in another despite offering the same service and quality. A potential reason for this is that type of food simply doesn't fit the region's demographic.
 
