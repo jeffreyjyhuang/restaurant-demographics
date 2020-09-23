@@ -4,7 +4,7 @@ The intuition I had is that the type of people that live around a specific resta
 
 What I wanted from this project is to be able to predict the probability of a restaurant succeeding in nearly every neighbourhood. This tool can be used by potential investors or business owners when conducting their market research. To examine this, I collected data from two sources: Yelp's public dataset, and an API from Statistics Canada that offered census data on every FSA value (first three characters of a postal code).
 
-The project consists of four jupyter notebooks with detailed commentse and explanations. They are in the following order:
+The project consists of four jupyter notebooks with detailed comments and explanations. They are in the following order:
 
 #### Restaurant_Data_Cleaning.ipynb
 - Filtering and cleaning Yelp public dataset. Feature engineering and some EDA.
