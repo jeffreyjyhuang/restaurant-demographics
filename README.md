@@ -8,13 +8,14 @@ The project consists of four jupyter notebooks with detailed commentse and expla
 
 #### Restaurant_Data_Cleaning.ipynb
 - Filtering and cleaning Yelp public dataset. Feature engineering and some EDA.
-- Outputs a csv file: cleaned_rest_data.csv
+- Outputs a csv file: `cleaned_rest_data.csv`
 #### Demographic_Data_Cleaning.ipynb
 - Extracting JSON data from Statistics Canada API. Filtering and cleaning, and some feature engineering and EDA.
-- Outputs a csv file: cleaned_demographic_data.csv
+- Outputs a csv file: `cleaned_demographic_data.csv`
 #### Modelling_Data_Cleaning.ipynb
+- Inputs both `cleaned_rest_data.csv` and `cleaned_demographic_data.csv`
 - Combining both cleaned csv data files, some feature engineering, and getting data ready for modelling
-- Outputs a csv file: model_data.csv
+- Outputs a csv file: `model_data.csv`
 #### Modelling.ipynb
 - Notebook that highlights some of the models that I fitted. Contains hyper-parameter optimizations.
 
